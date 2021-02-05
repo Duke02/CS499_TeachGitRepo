@@ -1,8 +1,5 @@
-//this is technically C code that will not produce an error
-#include
+#include <stdio.h>
 
 int main() {
-	printf("Hello World!\n\n");
+    printf("Hello World!\n");
 }
-
-//this is technically C code that will not produce an error
